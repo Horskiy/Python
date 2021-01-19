@@ -13,5 +13,4 @@ print(division(3, 4))
 
 print(subtraction(3, 4))
 
-
-
+print(is_year_leap(int(input("Enter year: "))))
