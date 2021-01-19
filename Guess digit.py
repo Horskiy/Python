@@ -6,9 +6,9 @@ user_number = int(input("Enter your number: "))
 while magick_number != user_number:
 
     if magick_number <= user_number:
-        print("Less!!")
+        print("Less!")
     else:
         print("Bigger!")
     user_number = int(input("Enter your number: "))
 
-print("Your win!!")
+print("Your win!")
